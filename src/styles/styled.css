@@ -564,22 +564,3 @@ section img .templates {
   line-height: 1.125rem;
   color: #ffffff;
 }
-
-@media screen and (max-width: 750px) {
-  .navbar {
-    flex-direction: column;
-  }
-
-  section .container {
-    flex-direction: column;
-    align-items: center;
-    width: 40px;
-    height: 12px;
-    left: 23px;
-    padding: 0px 230px 230px 230px;
-  }
-
-  section .container h1 {
-    font-size: xx-large;
-  }
-}
